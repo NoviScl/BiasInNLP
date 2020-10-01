@@ -4,6 +4,8 @@ Also includes some works on Social Media & Computational Social Science.
 
 ## People to follow 
 
+Yulia Tsvetkov [pubs](https://www.cs.cmu.edu/~ytsvetko/#publications)
+
 Kai-Wei Chang [pubs](http://web.cs.ucla.edu/~kwchang/publications_area/)
 
 David Jurgens [pubs](https://jurgens.people.si.umich.edu/)
@@ -11,7 +13,7 @@ David Jurgens [pubs](https://jurgens.people.si.umich.edu/)
 Dan Jurafsky [pubs](https://web.stanford.edu/~jurafsky/pubs.html)
 
 
-Categorised by the types of bias. 
+(The folllowing is categorised by the types of bias.)
 
 ## Gender Bias 
 
@@ -19,7 +21,13 @@ Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Co
 
 Gender Bias in Coreference Resolution [pdf](https://arxiv.org/pdf/1804.09301.pdf)
 
+Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems [pdf](https://arxiv.org/pdf/1805.04508.pdf)
+
 Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods [pdf](https://arxiv.org/pdf/1804.06876.pdf)
+
+Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings [pdf](https://arxiv.org/pdf/1904.04047.pdf)
+
+Measuring Bias in Contextualized Word Representations [pdf](https://arxiv.org/pdf/1906.07337.pdf)
 
 Gender Bias in Contextualized Word Embeddings [pdf](https://arxiv.org/pdf/1904.03310.pdf)
 
@@ -31,6 +39,8 @@ Toward Gender-Inclusive Coreference Resolution [pdf](https://www.aclweb.org/anth
 Social Bias in Elicited Natural Language Inferences [pdf](http://www.ethicsinnlp.org/workshop/pdf/EthNLP09.pdf)
 
 On Measuring Social Biases in Sentence Encoders [pdf](https://arxiv.org/pdf/1903.10561.pdf)
+
+Assessing Social and Intersectional Biases in Contextualized Word Representations [pdf](https://arxiv.org/pdf/1911.01485.pdf)
 
 SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language [pdf](https://arxiv.org/pdf/1911.03891.pdf)
 
