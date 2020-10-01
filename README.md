@@ -1,5 +1,7 @@
 # Bias in NLP paper list 
 
+Also includes some works on Social Media & Computational Social Science.
+
 ## People to follow 
 
 Kai-Wei Chang [pubs](http://web.cs.ucla.edu/~kwchang/publications_area/)
