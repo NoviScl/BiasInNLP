@@ -8,36 +8,44 @@ Yulia Tsvetkov (CMU) [[pubs](https://www.cs.cmu.edu/~ytsvetko/#publications)]
 
 Rachel Rudinger (UMD) [[pubs](https://rudinger.github.io/publications.html)]
 
+Mark Yatskar (UPenn) [[pubs](http://markyatskar.com/)]
+
 Kai-Wei Chang (UCLA) [[pubs](http://web.cs.ucla.edu/~kwchang/publications_area/)]
 
 Dan Jurafsky (Stanford) [[pubs](https://web.stanford.edu/~jurafsky/pubs.html)]
 
 David Jurgens (UMich) [[pubs](https://jurgens.people.si.umich.edu/)]
 
+Hal Daumé III (UMD) [[pubs](http://users.umiacs.umd.edu/~hal/publications.html)]
+
+Dirk Hovy (Bocconi) [[pubs](https://dblp.org/pid/82/8159.html)]
+
 
 The folllowing is mainly categorised by the types of bias. But many papers have covered multiple types of biases and in some cases the methods proposed are generalizable.
 
 ## Gender Bias 
 
-**Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings**. *Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai*. NeurIPS 2016. [[pdf](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)]
+1. **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings**. *Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai*. NeurIPS 2016. [[pdf](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)]
 
-**Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints**. *Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang*. EMNLP 2017. [[pdf](https://arxiv.org/pdf/1707.09457.pdf)]
+2. **Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints**. *Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang*. EMNLP 2017. [[pdf](https://arxiv.org/pdf/1707.09457.pdf)]
 
-**Gender Bias in Coreference Resolution**. *Rachel Rudinger, Jason Naradowsky, Brian Leonard, and Benjamin Van Durme*. NAACL 2018.  [[pdf](https://arxiv.org/pdf/1804.09301.pdf)]
+3. **Gender Bias in Coreference Resolution**. *Rachel Rudinger, Jason Naradowsky, Brian Leonard, and Benjamin Van Durme*. NAACL 2018.  [[pdf](https://arxiv.org/pdf/1804.09301.pdf)]
 
-**Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods**. *Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang*. NAACL 2018. [[pdf](https://arxiv.org/pdf/1804.06876.pdf)]
+4. **Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods**. *Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang*. NAACL 2018. [[pdf](https://arxiv.org/pdf/1804.06876.pdf)]
 
-**Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems**. *Svetlana Kiritchenko, Saif M. Mohammad*. \*SEM 2018. [[pdf](https://arxiv.org/pdf/1805.04508.pdf)]
+5. **Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems**. *Svetlana Kiritchenko, Saif M. Mohammad*. \*SEM 2018. [[pdf](https://arxiv.org/pdf/1805.04508.pdf)]
 
-**Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them**. *Hila Gonen and Yoav Goldberg*. NAACL 2019. [[pdf](https://arxiv.org/pdf/1903.03862.pdf)]
+6. **Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns**. *Kellie Webster and Marta Recasens and Vera Axelrod and Jason Baldridge*. TACL 2018. [[pdf](https://arxiv.org/pdf/1810.05201.pdf)]
 
-**Measuring Bias in Contextualized Word Representations**. *Keita Kurita, Nidhi Vyas, Ayush Pareek, Alan W Black, Yulia Tsvetkov*. Workshop@ACL 2019. [[pdf](https://arxiv.org/pdf/1906.07337.pdf)]
+7. **Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them**. *Hila Gonen and Yoav Goldberg*. NAACL 2019. [[pdf](https://arxiv.org/pdf/1903.03862.pdf)]
 
-Gender Bias in Contextualized Word Embeddings [pdf](https://arxiv.org/pdf/1904.03310.pdf)
+8. **Measuring Bias in Contextualized Word Representations**. *Keita Kurita, Nidhi Vyas, Ayush Pareek, Alan W Black, Yulia Tsvetkov*. Workshop@ACL 2019. [[pdf](https://arxiv.org/pdf/1906.07337.pdf)]
 
-Toward Gender-Inclusive Coreference Resolution [pdf](https://www.aclweb.org/anthology/2020.acl-main.418.pdf)
+9. **Gender Bias in Contextualized Word Embeddings**. *Jieyu Zhao, Tianlu Wang, Mark Yatskar, Ryan Cotterell, Vicente Ordonez, Kai-Wei Chang* NAACL 2019. [[pdf](https://arxiv.org/pdf/1904.03310.pdf)]
 
-**Investigating Gender Bias in BERT**. *Rishabh Bhardwaj, Navonil Majumder, Soujanya Poria*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2009.05021.pdf)]
+10. **Toward Gender-Inclusive Coreference Resolution**. *Yang Trista Cao, Hal Daumé III* ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.418.pdf)]
+
+11. **Investigating Gender Bias in BERT**. *Rishabh Bhardwaj, Navonil Majumder, Soujanya Poria*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2009.05021.pdf)]
 
 ## Racial Bias 
 
@@ -67,6 +75,8 @@ Assessing Demographic Bias in Named Entity Recognition [pdf](https://arxiv.org/p
 
 
 ## Survey 
+
+Debiasing Gender in Natural Language Processing: Literature Review
 
 Language (Technology) is Power: A Critical Survey of “Bias” in NLP [pdf](https://arxiv.org/pdf/2005.14050.pdf)
 
