@@ -21,7 +21,7 @@ Hal Daumé III (UMD) [[pubs](http://users.umiacs.umd.edu/~hal/publications.html)
 Dirk Hovy (Bocconi) [[pubs](https://dblp.org/pid/82/8159.html)]
 
 
-The folllowing is mainly categorised by the types of bias. But many papers have covered multiple types of biases and in some cases the methods proposed are generalizable.
+The folllowing is mainly categorised by the types of bias. But many papers have covered multiple types of biases and in some cases the methods proposed are generalizable. Under each category, the papers are in chronological order.
 
 ## Gender Bias 
 
@@ -41,37 +41,34 @@ The folllowing is mainly categorised by the types of bias. But many papers have 
 
 8. **Measuring Bias in Contextualized Word Representations**. *Keita Kurita, Nidhi Vyas, Ayush Pareek, Alan W Black, Yulia Tsvetkov*. Workshop@ACL 2019. [[pdf](https://arxiv.org/pdf/1906.07337.pdf)]
 
-9. **Gender Bias in Contextualized Word Embeddings**. *Jieyu Zhao, Tianlu Wang, Mark Yatskar, Ryan Cotterell, Vicente Ordonez, Kai-Wei Chang* NAACL 2019. [[pdf](https://arxiv.org/pdf/1904.03310.pdf)]
+9. **Gender Bias in Contextualized Word Embeddings**. *Jieyu Zhao, Tianlu Wang, Mark Yatskar, Ryan Cotterell, Vicente Ordonez, Kai-Wei Chang*. NAACL 2019. [[pdf](https://arxiv.org/pdf/1904.03310.pdf)]
 
-10. **Toward Gender-Inclusive Coreference Resolution**. *Yang Trista Cao, Hal Daumé III* ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.418.pdf)]
+10. **Toward Gender-Inclusive Coreference Resolution**. *Yang Trista Cao, Hal Daumé III*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.418.pdf)]
 
-11. **Investigating Gender Bias in BERT**. *Rishabh Bhardwaj, Navonil Majumder, Soujanya Poria*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2009.05021.pdf)]
+11. **Fair Is Better than Sensational: Man Is to Doctor as Woman Is to Doctor**. *Malvina Nissim, Rik van Noord, Rob van der Goot*. CL 2020. [[pdf](https://www.aclweb.org/anthology/2020.cl-2.7.pdf)]
 
-## Racial Bias 
-
-**Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings**. *Thomas Manzini, Lim Yao Chong, Alan W Black, Yulia Tsvetkov*. NAACL 2019. [[pdf](https://arxiv.org/pdf/1904.04047.pdf)]
-
-## Social Bias 
-
-**Semantics derived automatically from language corpora necessarily contain human biases**. *Aylin Caliskan, Joanna J. Bryson, and Arvind Narayanan*. Science 2017. [[pdf](https://arxiv.org/pdf/1608.07187.pdf)]
-
-Social Bias in Elicited Natural Language Inferences [pdf](http://www.ethicsinnlp.org/workshop/pdf/EthNLP09.pdf)
-
-On Measuring Social Biases in Sentence Encoders [pdf](https://arxiv.org/pdf/1903.10561.pdf)
-
-Assessing Social and Intersectional Biases in Contextualized Word Representations [pdf](https://arxiv.org/pdf/1911.01485.pdf)
-
-SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language [pdf](https://arxiv.org/pdf/1911.03891.pdf)
+12. **Investigating Gender Bias in BERT**. *Rishabh Bhardwaj, Navonil Majumder, Soujanya Poria*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2009.05021.pdf)]
 
 
-## Name Bias 
+## Other Social Bias (including Racial, Riligious, Name, Demographic, Age, etc.)
 
-“You are grounded!”: Latent Name Artifacts in Pre-trained Language Models [pdf](https://arxiv.org/pdf/2004.03012.pdf)
+1. **Semantics derived automatically from language corpora necessarily contain human biases**. *Aylin Caliskan, Joanna J. Bryson, and Arvind Narayanan*. Science 2017. [[pdf](https://arxiv.org/pdf/1608.07187.pdf)]
 
+2. **Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings**. *Thomas Manzini, Lim Yao Chong, Alan W Black, Yulia Tsvetkov*. NAACL 2019. [[pdf](https://arxiv.org/pdf/1904.04047.pdf)]
 
-## Demographic Bias 
+3. **Social Bias in Elicited Natural Language Inferences**. *Rachel Rudinger, Chandler May, Benjamin Van Durme*. Workshop @ ACL 2017. [[pdf](http://www.ethicsinnlp.org/workshop/pdf/EthNLP09.pdf)]
 
-Assessing Demographic Bias in Named Entity Recognition [pdf](https://arxiv.org/pdf/2008.03415.pdf)
+4. On Measuring Social Biases in Sentence Encoders [pdf](https://arxiv.org/pdf/1903.10561.pdf)
+
+5. **Understanding the Origins of Bias in Word Embeddings**. *Marc-Etienne Brunet, Colleen Alkalay-Houlihan, Ashton Anderson, Richard Zemel*. ICML 2019. [[pdf](https://arxiv.org/pdf/1810.03611.pdf)]
+
+6. **Assessing Social and Intersectional Biases in Contextualized Word Representations**. *Yi Chern Tan, L. Elisa Celis*. NeurIPS 2019. [[pdf](https://arxiv.org/pdf/1911.01485.pdf)]
+
+7. **SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language** [[pdf](https://arxiv.org/pdf/1911.03891.pdf)]
+
+8. **“You are grounded!”: Latent Name Artifacts in Pre-trained Language Models**. *Vered Shwartz, Rachel Rudinger, Oyvind Tafjord*. EMNLP 2020. [[pdf](https://arxiv.org/pdf/2004.03012.pdf)]
+
+9. **Assessing Demographic Bias in Named Entity Recognition** [[pdf](https://arxiv.org/pdf/2008.03415.pdf)]
 
 
 ## Survey 
