@@ -60,7 +60,7 @@ The folllowing is mainly categorised by the types of bias. But many papers have 
 
 3. **Social Bias in Elicited Natural Language Inferences**. *Rachel Rudinger, Chandler May, Benjamin Van Durme*. Workshop @ ACL 2017. [[pdf](http://www.ethicsinnlp.org/workshop/pdf/EthNLP09.pdf)]
 
-4. On Measuring Social Biases in Sentence Encoders [pdf](https://arxiv.org/pdf/1903.10561.pdf)
+4. **On Measuring Social Biases in Sentence Encoders**. *Chandler May, Alex Wang, Shikha Bordia, Samuel R. Bowman, Rachel Rudinger*. NAACL 2019. [pdf](https://arxiv.org/pdf/1903.10561.pdf)
 
 5. **Understanding the Origins of Bias in Word Embeddings**. *Marc-Etienne Brunet, Colleen Alkalay-Houlihan, Ashton Anderson, Richard Zemel*. ICML 2019. [[pdf](https://arxiv.org/pdf/1810.03611.pdf)]
 
