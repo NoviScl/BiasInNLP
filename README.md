@@ -85,6 +85,6 @@ The folllowing is mainly categorised by the types of bias. But many papers have 
 
 3. **Language (Technology) is Power: A Critical Survey of “Bias” in NLP**. *Su Lin Blodgett, Solon Barocas, Hal Daumé III, Hanna Wallach*.  ACL 2020. [pdf](https://arxiv.org/pdf/2005.14050.pdf)
 
-4. **Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview**. *Deven Shah, H. Andrew Schwartz, Dirk Hovy*. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.468v2.pdf)]
+4. **Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview**. *Deven Shah, H. Andrew Schwartz, Dirk Hovy*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.468v2.pdf)]
 
 
