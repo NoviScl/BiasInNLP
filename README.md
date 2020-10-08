@@ -70,6 +70,10 @@ The folllowing is mainly categorised by the types of bias. But many papers have 
 
 9. **Assessing Demographic Bias in Named Entity Recognition** [[pdf](https://arxiv.org/pdf/2008.03415.pdf)]
 
+10. **StereoSet: Measuring stereotypical bias in pretrained language models**. *Moin Nadeem, Anna Bethke, Siva Reddy*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2004.09456.pdf)]
+
+11. **CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models**. *Nikita Nangia, Clara Vania, Rasika Bhalerao, Samuel R. Bowman*. EMNLP 2020. [[pdf](https://arxiv.org/pdf/2010.00133.pdf)]
+
 
 ## Survey 
 
