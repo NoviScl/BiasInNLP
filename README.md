@@ -20,6 +20,8 @@ Hal Daumé III (UMD) [[pubs](http://users.umiacs.umd.edu/~hal/publications.html)
 
 Dirk Hovy (Bocconi) [[pubs](https://dblp.org/pid/82/8159.html)]
 
+Emily Bender (UW) [[pubs](https://faculty.washington.edu/ebender/publications.html)]
+
 
 The folllowing is mainly categorised by the types of bias. But many papers have covered multiple types of biases and in some cases the methods proposed are generalizable. Under each category, the papers are in chronological order.
 
@@ -64,11 +66,11 @@ The folllowing is mainly categorised by the types of bias. But many papers have 
 
 6. **Assessing Social and Intersectional Biases in Contextualized Word Representations**. *Yi Chern Tan, L. Elisa Celis*. NeurIPS 2019. [[pdf](https://arxiv.org/pdf/1911.01485.pdf)]
 
-7. **SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language** [[pdf](https://arxiv.org/pdf/1911.03891.pdf)]
+7. **SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language**. *Maarten Sap, Saadia Gabriel, Lianhui Qin, Dan Jurafsky, Noah A. Smith, Yejin Choi*. ACL 2020. [[pdf](https://arxiv.org/pdf/1911.03891.pdf)]
 
 8. **“You are grounded!”: Latent Name Artifacts in Pre-trained Language Models**. *Vered Shwartz, Rachel Rudinger, Oyvind Tafjord*. EMNLP 2020. [[pdf](https://arxiv.org/pdf/2004.03012.pdf)]
 
-9. **Assessing Demographic Bias in Named Entity Recognition** [[pdf](https://arxiv.org/pdf/2008.03415.pdf)]
+9. **Assessing Demographic Bias in Named Entity Recognition**. *Shubhanshu Mishra, Sijun He, Luca Belli*. Workshop @ AKBC 2020. [[pdf](https://arxiv.org/pdf/2008.03415.pdf)]
 
 10. **StereoSet: Measuring stereotypical bias in pretrained language models**. *Moin Nadeem, Anna Bethke, Siva Reddy*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2004.09456.pdf)]
 
@@ -77,7 +79,12 @@ The folllowing is mainly categorised by the types of bias. But many papers have 
 
 ## Survey 
 
-Debiasing Gender in Natural Language Processing: Literature Review
+1. **The Social Impact of Natural Language Processing**. *Dirk Hovy, Shannon L. Spruit*. ACL 2016. [[pdf](https://www.aclweb.org/anthology/P16-2096.pdf)]
 
-Language (Technology) is Power: A Critical Survey of “Bias” in NLP [pdf](https://arxiv.org/pdf/2005.14050.pdf)
+2. **Mitigating Gender Bias in Natural Language Processing: Literature Review**. *Tony Sun, Andrew Gaut, Shirlyn Tang, Yuxin Huang, Mai ElSherief, Jieyu Zhao, Diba Mirza, Elizabeth Belding, Kai-Wei Chang, William Yang Wang*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1159.pdf)]
+
+3. **Language (Technology) is Power: A Critical Survey of “Bias” in NLP**. *Su Lin Blodgett, Solon Barocas, Hal Daumé III, Hanna Wallach*.  ACL 2020. [pdf](https://arxiv.org/pdf/2005.14050.pdf)
+
+4. **Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview**. *Deven Shah, H. Andrew Schwartz, Dirk Hovy*. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.468v2.pdf)]
+
 
